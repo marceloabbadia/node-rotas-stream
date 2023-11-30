@@ -1,2 +1,3 @@
 # node-rotas-stream
-Criando rotas / middleware e trabalhando com stream node.js puro
+
+Api RestFul com Node.js sem frameworks e/ou bibliotecas externas. Usando HTTP, Crypto e File System. 
